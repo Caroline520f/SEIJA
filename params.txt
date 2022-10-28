@@ -1,0 +1,2 @@
+(best quality), ((masterpiece)), (highres), blasphemy, mysterious, sacred, holy, divine, antichrist, illustration, ((MechanicalMonsteri)), (extremely detailed cg), non-humanoid, ((Remus GoD machine-Fenrir)), masterpiece, powerful, extremely detailed CG unity 8k wallpaper, art oflight, artist style, hyper machine, Transformation by mechanization, Mechanicalweapon,sōsaku hanga
+Steps: 70, Sampler: Euler a, CFG scale: 14, Seed: -1, Size: 1024x640, Model hash: 925997e9, Model: pruned, ENSD: 31337
